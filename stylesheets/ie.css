@@ -1,0 +1,169 @@
+#comments .content {
+  _margin-top: -2px !important; }
+
+#snaps #comments p, #videos #comments p {
+  border-width: 0;
+  border-color: white;
+  behavior: url(/js/border-radius.htc) !important; }
+
+.clear_box,
+#content .button,
+.horizontal {
+  min-width: 0px;
+  _height: 1%; }
+
+form {
+  margin: 0;
+  padding: 0; }
+
+textarea {
+  overflow: auto; }
+
+#video_promos a p {
+  _padding-left: 5px !important;
+  _width: 135px !important;
+  _margin-right: 7px !important; }
+
+#fun_stuff {
+  _right: 48px !important; }
+
+#play_gallery {
+  margin: 10px !important; }
+
+ul#snaps_nav_galleries {
+  padding-left: 40px !important; }
+
+#play_galleries {
+  _width: 480px; }
+
+#snaps_nav_header {
+  margin-top: -10px !important; }
+
+#snaps_nav_content {
+  margin-top: 10px !important; }
+
+ul#snaps_nav_galleries {
+  left: -40px !important; }
+
+ul#snaps_nav_galleries li {
+  _margin: 20px 0px 20px 0px !important; }
+
+ul#snaps_nav_galleries li a img {
+  _margin: 25px 0px 15px 22px;
+  _float: left; }
+
+#snaps_sign_up {
+  _margin-top: -1px !important; }
+
+ul#snaps_nav_galleries {
+  _width: 400px !important; }
+
+#snaps_slideshow_control_container {
+  _top: 490px !important;
+  _left: 25px !important; }
+
+div.img_frame {
+  width: 498px !important; }
+
+#snaps_nav_content {
+  _margin-top: 0px !important; }
+
+#snaps_nav {
+  margin-top: 10px !important; }
+
+#blogs .blogs_right_buttons {
+  right: 21px !important;
+  _left: 673px !important; }
+#blogs .blogs_right_button {
+  _width: 235px !important; }
+#blogs .blogs_right_button_teaser_bottom {
+  _position: relative;
+  _right: -4px; }
+#blogs #blog_archives {
+  _left: 0; }
+  #blogs #blog_archives ul.characters {
+    _margin-left: 5px;
+    _width: 580px; }
+    #blogs #blog_archives ul.characters a {
+      _margin-left: 3px; }
+
+.biobground {
+  margin-top: -3px !important; }
+
+#FAQQuestions {
+  margin-top: -3px !important; }
+
+#FAQGroup {
+  margin-top: -3px !important; }
+
+#FAQList {
+  margin-top: -3px !important; }
+
+#side-ad {
+  _left: 0 !important; }
+
+#top-ad {
+  _position: absolute;
+  _height: 100px !important; }
+
+#topadbg {
+  _position: relative; }
+
+.img_frame {
+  background-color: transparent; }
+
+#home_poll_v2fc_right {
+  position: static !important;
+  margin: 0px; }
+
+#videos_playlist_container .title {
+  _float: right;
+  _margin-top: -195px; }
+
+#videos_upload_signup {
+  background-position: 0px 8px !important; }
+
+#snaps .snaps_caption p.member {
+  margin: 10px 0 0 -100px !important; }
+
+#play .game-summary-caption {
+  height: 2em !important;
+  _height: 3em !important;
+  padding-top: 0.74em !important; }
+#play #play_promotion_pic {
+  _position: absolute !important;
+  _top: 145px !important;
+  _left: 36px !important; }
+#play #bent_flex_wrap .pretty_item_box a img {
+  _top: 170px !important; }
+#play #bent_flex_wrap .pretty_item_box .pretty_item_box_content {
+  height: 8.4em !important; }
+#play #bent_flex_wrap .pretty_item_box .pretty_item_box_left_column {
+  _width: 55% !important; }
+
+#FAQList {
+  height: 1% !important;
+  margin-top: -3px !important; }
+
+#textus .right_column .phone .phone_wrap .message textarea {
+  height: 137px; }
+
+#askquestion #question_videos {
+  width: 405px; }
+  #askquestion #question_videos .right_column .video_clips .prompt {
+    height: 73px; }
+  #askquestion #question_videos .left_column .latest_questions ul li dl dt {
+    height: 62px; }
+#askquestion #question_archive .right_column {
+  right: -14px; }
+  #askquestion #question_archive .right_column .archive_nav .month_nav li a {
+    width: 122px; }
+
+#uploadphotos_uploader .item {
+  _margin-bottom: 0; }
+
+#uploadphotos .second_wrap .right_column, #uploadvideos .second_wrap .right_column {
+  _margin-top: -262px; }
+
+#comments .content {
+  _margin-top: -2px; }
