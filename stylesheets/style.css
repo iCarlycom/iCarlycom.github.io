@@ -328,12 +328,11 @@ div.pretty_item_box.purple div.pretty_item_box_bottom {
     display: none; }
   #frame #header #header_photo {
     position: absolute;
-    left: 543px;
+    left: 509px;
     top: 0;
     height: 300px;
     width: 404px;
     z-index: 40;
-    background-repeat: no-repeat; }
     background: url('/assets/1/image/2011/02/10/43706_4021178902.png') top left no-repeat; }
   #frame #header #header_photo.all {
     left: 504px; }
