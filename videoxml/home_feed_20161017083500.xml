@@ -1,0 +1,640 @@
+<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/' xmlns:mediaad='http://blip.tv/mediaad'>
+  <channel>
+    <title>iCarly.com Videos</title>
+    <link>http://www.icarly.com</link>
+    <description>Media RSS feed from iCarly.com</description>
+    <item>
+      <title><![CDATA[1|5234|27430|Gibby Marries Baggles!]]></title>
+      <guid>27430</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27430.xml'>
+        </media:content>
+        <media:title><![CDATA[Gibby Marries Baggles!]]></media:title>
+        <media:description><![CDATA[You are cordially invited to watch the wedding of Gibby Gibson and a sack of yogurt named Baggles.]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/10/19/65539_3819226315.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[1|5331|27983|The Last Webcast]]></title>
+      <guid>27983</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27983.xml'>
+        </media:content>
+        <media:title><![CDATA[The Last Webcast]]></media:title>
+        <media:description><![CDATA[Yes, folks. It's true. This is our last webcast for a while... but we've put together some of your faves for this one including Baby Spencer and the Idiot Farm Girl! ]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/11/21/63185_3885934354.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[1|5331|27980|iCarly Flashback]]></title>
+      <guid>27980</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27980.xml'>
+        </media:content>
+        <media:title><![CDATA[iCarly Flashback]]></media:title>
+        <media:description><![CDATA[We're taking a trip down iCarly Memory Lane! Remember all this crazy stuff? Jeez, we were pretty funny!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/11/21/62923_1705702761.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[1|5331|27977|Meekalito Rocks]]></title>
+      <guid>27977</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27977.xml'>
+        </media:content>
+        <media:title><![CDATA[Meekalito Rocks]]></media:title>
+        <media:description><![CDATA[If it wasn't for Meekalito's sad, lonely rock collection, we might have had to pay full price for that choke knob. Thanks, Meekalito's rocks for being so unwanted!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/11/21/62812_1690576949.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[1|5312|27769|Bitty Big Heads! ]]></title>
+      <guid>27769</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27769.xml'>
+        </media:content>
+        <media:title><![CDATA[Bitty Big Heads! ]]></media:title>
+        <media:description><![CDATA[Watch America's newest cartoon sensation, "Bitty Big Heads!" It's just like iCarly… only bittier!    ]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/11/09/79649_4219967186.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[1|5249|27573|Gibby Some Sugar! ]]></title>
+      <guid>27573</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27573.xml'>
+        </media:content>
+        <media:title><![CDATA[Gibby Some Sugar! ]]></media:title>
+        <media:description><![CDATA[Today on iCarly we find out why Gibby is so messed up. And Sam's mom goes to jail! It's a whole lotta dysfunctional fun!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/11/02/66200_3968790728.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[1|5240|27493|Baby Spencer Plays with Rats!]]></title>
+      <guid>27493</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27493.xml'>
+        </media:content>
+        <media:title><![CDATA[Baby Spencer Plays with Rats!]]></media:title>
+        <media:description><![CDATA[We interrupt this Baby Spencer segment to buy some live rats! Good thing the Rat Man was in town! ]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/10/26/69776_2133310561.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[1|5234|27428|Crazy iCarly Fan!]]></title>
+      <guid>27428</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27428.xml'>
+        </media:content>
+        <media:title><![CDATA[Crazy iCarly Fan!]]></media:title>
+        <media:description><![CDATA[A crazy fan who may or may not be a famous celebrity crashes our lunch...like literally crashes into it.]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/10/19/65423_1465077560.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[1|5234|27425|Gibby's Stand Up]]></title>
+      <guid>27425</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27425.xml'>
+        </media:content>
+        <media:title><![CDATA[Gibby's Stand Up]]></media:title>
+        <media:description><![CDATA[Gibby's standup comedy is back with some new material. And he's performing for the one person guaranteed to think his routine is hilarious -- himself.]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/10/19/66819_3937958478.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>8</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[1|5225|27371|iCarly Smoothies… and a Special Announcement]]></title>
+      <guid>27371</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27371.xml'>
+        </media:content>
+        <media:title><![CDATA[iCarly Smoothies… and a Special Announcement]]></media:title>
+        <media:description><![CDATA[Carly teaches you how to make your very own, horrible-tasting smoothie. And Sam has a special announcement for the peoples of the internet.]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/10/12/66832_3734937920.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|4468|30685|iNews: Game Shakers]]></title>
+      <guid>30685</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video30685.xml'>
+        </media:content>
+        <media:title><![CDATA[iNews: Game Shakers]]></media:title>
+        <media:description><![CDATA[Season two is here and OUT OF CONTROL!!! You will NOT believe what happens! EVERYTHING HAPPENS!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2016/09/16/62627_1163589434.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>8</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|136|1799|iCrush It On Wheels: Microwave Oven]]></title>
+      <guid>1799</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video1799.xml'>
+        </media:content>
+        <media:title><![CDATA[iCrush It On Wheels: Microwave Oven]]></media:title>
+        <media:description><![CDATA[You've seen Spencer crush stuff with a sledgehammer, now we're crushing stuff in a whole new way!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2009/04/30/import_001136.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|4468|17014|iNews: Manicure]]></title>
+      <guid>17014</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video17014.xml'>
+        </media:content>
+        <media:title><![CDATA[iNews: Manicure]]></media:title>
+        <media:description><![CDATA[Spencer feels that the best way to deliver the news is whilst receiving a professional manicure from the Gibster.]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2010/12/17/75081_3116584060.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>8</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|85|16470|iHave a Question: So Dang Stupid]]></title>
+      <guid>16470</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video16470.xml'>
+        </media:content>
+        <media:title><![CDATA[iHave a Question: So Dang Stupid]]></media:title>
+        <media:description><![CDATA[A fan wants to know why iCarly is so dang stupid. Why ARE we so dang stupid? Here's why....]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2010/11/24/51773_66254116.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|4485|17699|Sam Raps!]]></title>
+      <guid>17699</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video17699.xml'>
+        </media:content>
+        <media:title><![CDATA[Sam Raps!]]></media:title>
+        <media:description><![CDATA[Sam throws some free-style action in your face! Rap on, Blondie! Just one question though: Why is Gibby wearing that dress again?]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2011/01/21/71176_1275632013.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|18|20229|iDrive Thru: Silly Talking!]]></title>
+      <guid>20229</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video20229.xml'>
+        </media:content>
+        <media:title><![CDATA[iDrive Thru: Silly Talking!]]></media:title>
+        <media:description><![CDATA[We get silly at the Inside Out Burger! Plus, a "special guest" stops by to freak us out!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2011/04/22/49082_3391035206.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|5313|27772|Bitty Big Heads Presents "Hungry Sam"]]></title>
+      <guid>27772</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27772.xml'>
+        </media:content>
+        <media:title><![CDATA[Bitty Big Heads Presents "Hungry Sam"]]></media:title>
+        <media:description><![CDATA[See the full iCarly toon "Bitty Big Heads!" They've got big heads, they bounce, and they occasionally eat their friend's hand!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/11/09/79872_2710257472.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|85|27055|iHave a Question: Just Answers]]></title>
+      <guid>27055</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video27055.xml'>
+        </media:content>
+        <media:title><![CDATA[iHave a Question: Just Answers]]></media:title>
+        <media:description><![CDATA[We just rolled outta bed to answer a whole bunch of YOUR questions. But we don't have time to read the questions. So all you're gonna get is the answers!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/09/07/55251_3077805525.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|5009|23701|You're in Luck! ]]></title>
+      <guid>23701</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video23701.xml'>
+        </media:content>
+        <media:title><![CDATA[You're in Luck! ]]></media:title>
+        <media:description><![CDATA[When Spencer went to the bathroom at Pini's, he had no idea he was about to be a contestant on America's new favorite game show!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2011/11/04/72794_2660510612.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[2|5156|26412|iBathe It: A Cat]]></title>
+      <guid>26412</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video26412.xml'>
+        </media:content>
+        <media:title><![CDATA[iBathe It: A Cat]]></media:title>
+        <media:description><![CDATA[We at iCarly hate dirty animals. That's why today, we're bathing a Cat. A Cat Valentine to be exact.]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/06/22/69472_4019912195.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|5123|25950|Spencer Impression!]]></title>
+      <guid>25950</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video25950.xml'>
+        </media:content>
+        <media:title><![CDATA[Spencer Impression!]]></media:title>
+        <media:description><![CDATA[iCarly fan samnett97 does his very best Spencer. We think it's pretty spot on. Thoughts?]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/05/08/51811_2031970048.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>6</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|5123|25948|Spencer Impression!]]></title>
+      <guid>25948</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video25948.xml'>
+        </media:content>
+        <media:title><![CDATA[Spencer Impression!]]></media:title>
+        <media:description><![CDATA[iCarly fan, wisesam, does her best impression of Spencer!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2012/05/08/51041_3628972688.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>6</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|84|23717|iCarly Fan Rocks It]]></title>
+      <guid>23717</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video23717.xml'>
+        </media:content>
+        <media:title><![CDATA[iCarly Fan Rocks It]]></media:title>
+        <media:description><![CDATA[Another example why iCarly fans are superior... you know... to all other fans.]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2011/11/09/52364_2341564524.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>8</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|120|16639|iCarly Q for U]]></title>
+      <guid>16639</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video16639.xml'>
+        </media:content>
+        <media:title><![CDATA[iCarly Q for U]]></media:title>
+        <media:description><![CDATA[This fan has a good point! Why IS lunch meat round while bread is square? Hmm...]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2010/11/30/50299_1279649654.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>7</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|120|14287|Mr. Mustache]]></title>
+      <guid>14287</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video14287.xml'>
+        </media:content>
+        <media:title><![CDATA[Mr. Mustache]]></media:title>
+        <media:description>
+          <![CDATA[iCarly fan "Bob" has an awesome mustache. And a lot of free time on her hands.
+          ]]>
+        </media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2010/08/20/77122_2423635018.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>8</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|84|14240|Rapid Nose Wiggling]]></title>
+      <guid>14240</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video14240.xml'>
+        </media:content>
+        <media:title><![CDATA[Rapid Nose Wiggling]]></media:title>
+        <media:description><![CDATA[Wow, magicwave9. That's some pretty impressive rapid nose wiggling.]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2010/08/13/75754_1889696350' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>7</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|4116|13961|iCarly Birthday Video #3!]]></title>
+      <guid>13961</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video13961.xml'>
+        </media:content>
+        <media:title><![CDATA[iCarly Birthday Video #3!]]></media:title>
+        <media:description><![CDATA[Meet the Backwards Sisters. They made this special backwards birthday video especially for Carly!  YADHTRIB YPPAH!!!!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2010/07/28/72740_874056757.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>7</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|4116|13725|More iCarly Birthday Wishes!]]></title>
+      <guid>13725</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video13725.xml'>
+        </media:content>
+        <media:title><![CDATA[More iCarly Birthday Wishes!]]></media:title>
+        <media:description><![CDATA[Carly's B-Day is coming up and the birthday wishes are pouring in... we especially like this SHOUT-OUT from iCarly fan Bella!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2010/07/23/69165_1581134425.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>7</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|4116|13341|iCarly Birthday Video #1]]></title>
+      <guid>13341</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video13341.xml'>
+        </media:content>
+        <media:title><![CDATA[iCarly Birthday Video #1]]></media:title>
+        <media:description>
+          <![CDATA[Carly's birthday is coming up and everyone's all excited -- especially this little girl! Don't miss a new, birthday-themed episode July 30th!
+          ]]>
+        </media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2010/07/16/71385_589581722.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>8</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[3|120|9596|Spaghetti Taco Weirdness]]></title>
+      <guid>9596</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video9596.xml'>
+        </media:content>
+        <media:title><![CDATA[Spaghetti Taco Weirdness]]></media:title>
+        <media:description><![CDATA[Three iCarly fans demonstrate some not-so-normal things to do with Spaghetti Tacos. ]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2010/02/19/67310_857484096.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>7</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[0|0|22918|What's Gibby Thinking? Random Debate]]></title>
+      <guid>22918</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video22918.xml'>
+        </media:content>
+        <media:title><![CDATA[What's Gibby Thinking? Random Debate]]></media:title>
+        <media:description><![CDATA[So we tried to debate money vs. breathing... but Gibby's "thoughts" got in the way!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2011/09/02/61652_3872883170.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[0|0|22718|iHave a Question: What's Under the Table???]]></title>
+      <guid>22718</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video22718.xml'>
+        </media:content>
+        <media:title><![CDATA[iHave a Question: What's Under the Table???]]></media:title>
+        <media:description><![CDATA[We TRIED to answer an iCarly fan's question but things went HORRIBLY HORRIBLY wrong!!!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2011/08/19/67551_324318974.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+    <item>
+      <title><![CDATA[0|0|21306|We Harass Cacti!]]></title>
+      <guid>21306</guid>
+      <media:group>
+        <media:content duration='1408' isDefault='true' type='text/xml' url='/videoxml/video21306.xml'>
+        </media:content>
+        <media:title><![CDATA[We Harass Cacti!]]></media:title>
+        <media:description><![CDATA[Learn the proper way to diss a cactus in this iCarly webcast featuring new never-before-seen footage!]]></media:description>
+        <media:thumbnail height='48' url='/assets/1/image/2011/06/10/75203_3503065135.jpg' width='70'></media:thumbnail>
+        <media:player url='http://media.mtvnservices.com/mgid:cms:item:nick.com:171400'></media:player>
+        <media:rating scheme='urn:simple'>nonadult</media:rating>
+        <media:category label='clip' scheme='urn:mtvn:content_type'>clip</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:franchise'>iCarly</media:category>
+        <media:category label='iCarly' scheme='urn:mtvn:playlist_title'>iCarly.com Videos</media:category>
+        <media:category scheme='urn:mtvn:reportable'>true</media:category>
+        <media:category scheme='urn:mtvn:affect_counters'>true</media:category>
+        <media:star-rating>9</media:star-rating>
+      </media:group>
+    </item>
+  </channel>
+</rss>
